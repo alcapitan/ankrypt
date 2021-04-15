@@ -1,2 +1,3 @@
-# ankrypt
-Algorithme JavaScript et Python pour chiffrer du texte
+# Ankrypt
+
+Pas de clé, pas de données.
